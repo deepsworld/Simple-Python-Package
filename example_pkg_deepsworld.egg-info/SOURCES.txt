@@ -1,0 +1,8 @@
+README.md
+setup.py
+example-pkg/Vehicle.py
+example-pkg/__init__.py
+example_pkg_deepsworld.egg-info/PKG-INFO
+example_pkg_deepsworld.egg-info/SOURCES.txt
+example_pkg_deepsworld.egg-info/dependency_links.txt
+example_pkg_deepsworld.egg-info/top_level.txt
